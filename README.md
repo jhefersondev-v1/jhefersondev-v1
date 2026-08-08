@@ -9,8 +9,8 @@ width="100%"
 
 <img
 src="./profile.jpg"
-width="170"
-height="170"
+width="200"
+height="200"
 alt="Jheferson Rafael"
 style="border-radius:50%;"
 />
