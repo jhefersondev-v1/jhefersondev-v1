@@ -58,18 +58,6 @@ src="https://komarev.com/ghpvc/?username=jhefersondev-v1&style=for-the-badge&col
 
 </div>
 
----
-
-<div align="center">
-
-# CHOLAN GROUP
-
-### INNOVACIÓN SIN LÍMITES
-
-</div>
-
----
-
 # About Me
 
 <img align="right"
