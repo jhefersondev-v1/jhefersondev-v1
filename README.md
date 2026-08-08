@@ -8,7 +8,7 @@ width="100%"
 <br>
 
 <img
-src="./assets/profile.png"
+src="./profile.jpg"
 width="170"
 height="170"
 alt="Jheferson Rafael"
