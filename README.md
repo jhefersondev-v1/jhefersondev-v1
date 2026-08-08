@@ -12,7 +12,7 @@ src="./profile.jpg"
 width="200"
 height="200"
 alt="Jheferson Rafael"
-style="border-radius:50%;"
+style="border-radius:50%; object-fit:cover;"
 />
 
 <br><br>
