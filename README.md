@@ -7,16 +7,6 @@ width="100%"
 
 <br>
 
-<img
-src="./profile.jpg"
-width="200"
-height="200"
-alt="Jheferson Rafael"
-style="border-radius:50%; object-fit:cover;"
-/>
-
-<br><br>
-
 # Jheferson Rafael Cholan Fernandez
 
 ### Software Engineer | Artificial Intelligence | Full-Stack Developer
@@ -58,28 +48,25 @@ src="https://komarev.com/ghpvc/?username=jhefersondev-v1&style=for-the-badge&col
 
 </div>
 
+---
+
 # About Me
 
-<img align="right"
-src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-width="330">
+I am a **Software Engineering student specializing in Artificial Intelligence**, focused on developing modern, scalable and practical software solutions.
 
-I am **Jheferson Rafael Cholan Fernandez**, a Software Engineering student specializing in **Artificial Intelligence**.
+My main areas of interest include:
 
-My professional focus is the development of modern software solutions, combining programming, artificial intelligence, data and digital technologies.
+- Artificial Intelligence
+- Machine Learning
+- Computer Vision
+- Full-Stack Development
+- Backend Development
+- Android Development
+- Database Systems
+- Software Architecture
+- Automation
 
-I am interested in building systems that are:
-
-- Scalable
-- Efficient
-- Secure
-- Modern
-- User-focused
-- Powered by intelligent technologies
-
-My long-term goal is to become a **Software Engineer specialized in Artificial Intelligence** and create technological products capable of solving real-world problems.
-
-<br clear="right"/>
+My professional goal is to become a **Software Engineer specialized in Artificial Intelligence**, creating technological solutions capable of solving real-world problems.
 
 ---
 
@@ -90,51 +77,54 @@ My long-term goal is to become a **Software Engineer specialized in Artificial I
 <table>
 <tr>
 
-<td align="center" width="200">
+<td align="center" width="220">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50">
+<img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+width="55"
+>
 
 ### Artificial Intelligence
 
 Machine Learning  
 Computer Vision  
-Deep Learning
+Deep Learning  
+YOLO  
+TensorFlow
 
 </td>
 
-<td align="center" width="200">
+<td align="center" width="220">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50">
+<img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+width="55"
+>
 
 ### Software Engineering
 
-Backend  
+Java  
+Python  
+Kotlin  
 APIs  
 Architecture
 
 </td>
 
-<td align="center" width="200">
+<td align="center" width="220">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50">
+<img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+width="55"
+>
 
 ### Full Stack
 
-Web Applications  
 Frontend  
-Backend
-
-</td>
-
-<td align="center" width="200">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="50">
-
-### Mobile
-
-Android  
-Kotlin  
-Room Database
+Backend  
+REST APIs  
+Databases  
+Deployment
 
 </td>
 
@@ -157,7 +147,7 @@ Room Database
 
 ---
 
-## Artificial Intelligence
+## Artificial Intelligence & Data
 
 <div align="center">
 
@@ -171,7 +161,7 @@ Room Database
 
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
 
-<img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge">
+<img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge&logoColor=white">
 
 </div>
 
@@ -187,11 +177,21 @@ Room Database
 
 ---
 
+## Mobile Development
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=androidstudio,kotlin&perline=4">
+
+</div>
+
+---
+
 ## Development Tools
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,docker,postman,linux&perline=7">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,linux&perline=6">
 
 </div>
 
@@ -207,7 +207,10 @@ Room Database
 
 <td align="center" width="250">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45">
+<img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+width="45"
+>
 
 ### Machine Learning
 
@@ -221,7 +224,10 @@ Clustering
 
 <td align="center" width="250">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="45">
+<img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg"
+width="45"
+>
 
 ### Computer Vision
 
@@ -234,7 +240,10 @@ Image Processing
 
 <td align="center" width="250">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45">
+<img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"
+width="45"
+>
 
 ### Deep Learning
 
@@ -259,7 +268,7 @@ Model Training
 
 ### Intelligent Movie Recommendation System
 
-A recommendation system developed using Machine Learning concepts to provide personalized movie recommendations.
+Recommendation system developed using Machine Learning concepts to generate personalized movie recommendations.
 
 **Technology**
 
@@ -271,11 +280,9 @@ A recommendation system developed using Machine Learning concepts to provide per
 
 ### E-Commerce Platform
 
-Modern web platform designed for a footwear business.
+Modern web platform developed for a footwear business.
 
-### Main Features
-
-| Module | Function |
+| Module | Description |
 |---|---|
 | Products | Product management |
 | Categories | Damas, Caballeros, Niños, Niñas |
@@ -307,9 +314,7 @@ Mobile application designed for task management and organization.
 
 ### Digital Voting Platform
 
-Voting system designed for educational environments.
-
-### Main Features
+Voting system designed for educational environments with DNI validation and vote registration.
 
 | Feature | Description |
 |---|---|
@@ -386,7 +391,7 @@ width="90%"
 <img
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg"
 width="60"
-/>
+>
 
 ### Software Engineering with Artificial Intelligence
 
@@ -409,34 +414,35 @@ Software Development
 
 <br><br>
 
-Artificial Intelligence · Machine Learning · Computer Vision  
+Artificial Intelligence · Machine Learning · Computer Vision
+
 Cloud Computing · Docker · Backend Architecture
 
 </div>
 
 ---
 
-# Development Philosophy
+# Development Workflow
 
 <div align="center">
 
 ```text
-IDEA
- │
- ▼
-ANALYSIS
- │
- ▼
-DESIGN
- │
- ▼
-DEVELOPMENT
- │
- ▼
-TESTING
- │
- ▼
-DEPLOYMENT
- │
- ▼
+REQUIREMENTS
+      |
+      v
+  ANALYSIS
+      |
+      v
+   DESIGN
+      |
+      v
+ DEVELOPMENT
+      |
+      v
+   TESTING
+      |
+      v
+ DEPLOYMENT
+      |
+      v
 CONTINUOUS IMPROVEMENT
